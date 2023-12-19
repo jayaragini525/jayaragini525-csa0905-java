@@ -1,5 +1,5 @@
 import java.util.*;
-public class {
+public class clgUserCount {
 public static void main(String arg[]){
 Scanner s=new Scanner(System.in);
 int t_count,s_count,ns_count,std_count;
